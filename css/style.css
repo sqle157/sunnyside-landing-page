@@ -406,6 +406,7 @@ section.product {
 
 /* Footer */
 footer.footer {
+	height: 21.875rem;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
