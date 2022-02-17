@@ -33,6 +33,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	background-color: vhsl(210, 4%, 67%, 0.3);
 	font-family: var(--ff-200);
 	font-size: var(--fs-18);
 	min-height: 100vh;
