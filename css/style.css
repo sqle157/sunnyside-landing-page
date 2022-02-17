@@ -496,7 +496,7 @@ footer.footer {
 		color: var(--neutral-white);
 	}
 
-	.nav__link__list .btn--color {
+	.nav__link__list .btn.btn--color {
 		background-color: var(--neutral-white);
 	}
 
